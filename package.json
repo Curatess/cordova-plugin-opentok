@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-opentok",
-  "version": "3.4.3",
+  "name": "@curatess/cordova-plugin-opentok",
+  "version": "3.4.4",
   "description": "Add live video streaming to your Cordova Application",
   "cordova": {
     "id": "cordova-plugin-opentok",
@@ -11,7 +11,7 @@
     ]
   },
   "dependencies": {
-    "@opentok/client": "2.15.5",
+    "@opentok/client": "2.18.1",
     "exec": "^0.2.0",
     "tar": "^2.0.0"
   },
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/opentok/cordova-plugin-opentok.git"
+    "url": "git+https://github.com/Curatess/cordova-plugin-opentok.git"
   },
   "keywords": [
     "opentok",
@@ -39,7 +39,7 @@
   "author": "Manik Sachdeva",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/opentok/cordova-plugin-opentok/issues"
+    "url": "https://github.com/Curatess/cordova-plugin-opentok/issues"
   },
-  "homepage": "https://github.com/opentok/cordova-plugin-opentok#readme"
+  "homepage": "https://github.com/Curatess/cordova-plugin-opentok#readme"
 }

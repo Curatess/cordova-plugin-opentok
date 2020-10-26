@@ -2,8 +2,8 @@
 
 ---
 
-For **feature requests**, please fill out the [feature request template](https://github.com/opentok/cordova-plugin-opentok/issues/new?template=feature_request.md)
+For **feature requests**, please fill out the [feature request template](https://github.com/Curatess/cordova-plugin-opentok/issues/new?template=feature_request.md)
 
 ---
 
-For **bug reports**, please fill out the [bug report issue template](https://github.com/opentok/cordova-plugin-opentok/issues/new?template=bug.md)
+For **bug reports**, please fill out the [bug report issue template](https://github.com/Curatess/cordova-plugin-opentok/issues/new?template=bug.md)
